@@ -20,3 +20,5 @@ a:focus-visible,button:focus-visible { outline:3px solid #8b633d; outline-offset
 .nav-footer { border-top:1px solid var(--rule); color:var(--muted); font-family:system-ui,sans-serif; font-size:.75rem; }
 .quiet-link { font-size:.9rem; }
 @media(max-width:767px){ main.content {padding-top:1.8rem;} body{font-size:17px;} }
+h1.title { word-break: keep-all; }
+@media(max-width:767px){ .navbar-brand {font-size:1rem;} }
