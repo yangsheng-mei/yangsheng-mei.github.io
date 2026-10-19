@@ -1,0 +1,37 @@
+---
+title: "Yangsheng Mei · 梅阳生"
+pagetitle: "Yangsheng Mei | Economics, Writing & Photography"
+title-block-banner: false
+---
+
+::: {.eyebrow}
+ECONOMICS · WRITING · PHOTOGRAPHY
+:::
+
+::: {.intro}
+A space for research, words, and ways of seeing.
+:::
+
+I am a Ph.D. student in Economics at the Andrew Young School of Policy Studies, Georgia State University. My research interests are in urban economics.
+
+My long-term interest is in **urban memory**: how the places we inherit shape the lives we can build. I am interested in how inherited urban spaces and institutions shape people’s feasible opportunities, and how those opportunities change across generations.
+
+[ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu) · [myangsheng@gmail.com](mailto:myangsheng@gmail.com)
+
+这里存放研究，也存放文字与目光。
+
+::: {.section-links}
+[Research →](research.qmd)
+
+[Curriculum vitae →](cv.qmd)
+
+[Writing archive · 中文写作 →](writing.qmd)
+
+[Photography →](photography.qmd)
+:::
+
+---
+
+This website is taking shape. Research details, a CV, essays, and photographs will be added as they become available.
+
+[GitHub](https://github.com/yangsheng-mei){.quiet-link}

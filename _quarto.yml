@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
+website:
+  title: "Yangsheng Mei · 梅阳生"
+  site-url: https://yangshengmei.com
+  description: "Yangsheng Mei — Economics, writing, and photography."
+  search: false
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - cv.qmd
+      - href: writing.qmd
+        text: Writing · 文字
+      - photography.qmd
+  page-footer:
+    left: "© Yangsheng Mei"
+    right: "Economics · Writing · Photography"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    smooth-scroll: true
+    anchor-sections: true

@@ -1,0 +1,13 @@
+---
+title: Photography
+---
+
+::: {.eyebrow}
+WAYS OF SEEING
+:::
+
+A space for photographs and the stories around them.
+
+::: {.empty-note}
+Selected photographs will be added here.
+:::
