@@ -22,3 +22,12 @@ Quarto source for https://yangshengmei.com.
 GitHub Pages Custom domain: yangshengmei.com。Cloudflare 使用 DNS only：根域名 A 记录指向 GitHub Pages 的四个地址，www CNAME 指向 yangsheng-mei.github.io。确认无冲突记录后再添加。证书签发完成后开启 Enforce HTTPS。
 
 官方说明：https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+
+## Urban Memory atlas
+
+- `urban-memory.qmd`: integrated page with the normal website navigation.
+- `urban-memory-atlas.html`: public interactive atlas, self-contained; updates are published with the source through GitHub Actions.
+- Only public research records are included. Private meeting notes and cloud write endpoints are excluded from the public artifact.
+- GitHub Pages is static hosting. Editing the offline management copy does NOT update this public atlas automatically. Review and publish source changes to update the public website.
+- External survey settings remain empty until an actual questionnaire is ready.

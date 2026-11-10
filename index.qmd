@@ -23,6 +23,8 @@ My long-term interest is in **urban memory**: how the places we inherit shape th
 ::: {.section-links}
 [Research →](research.qmd)
 
+[Urban Memory · Research Atlas →](urban-memory.qmd)
+
 [Curriculum vitae →](cv.qmd)
 
 [Writing archive · 中文写作 →](writing.qmd)

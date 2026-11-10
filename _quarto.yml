@@ -5,6 +5,7 @@ project:
     - "*.qmd"
   resources:
     - CNAME
+    - urban-memory-atlas.html
 website:
   title: "Yangsheng Mei · 梅阳生"
   site-url: https://yangshengmei.com
@@ -16,6 +17,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - href: urban-memory.qmd
+        text: Urban Memory
       - cv.qmd
       - href: writing.qmd
         text: Writing · 文字

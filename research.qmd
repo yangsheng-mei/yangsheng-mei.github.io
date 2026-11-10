@@ -18,6 +18,10 @@ I am interested in the distinction between what a city preserves, how people und
 
 This is an evolving research agenda, connecting urban economics with questions about feasible opportunities and collective life.
 
+[Explore the Urban Memory Research Atlas →](urban-memory.qmd)
+
+The interactive atlas documents working concepts, candidate research designs, open questions, and opportunities to participate. It distinguishes hypotheses from established evidence.
+
 ## Projects and papers
 
 This page will include abstracts, collaborators, and links to available papers as the research archive develops.
