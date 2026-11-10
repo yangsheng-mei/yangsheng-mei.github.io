@@ -1,27 +1,31 @@
 ---
-title: Research
+title: "Research"
+pagetitle: "Research | Yangsheng Mei"
+lang: en
 ---
 
-::: {.eyebrow}
-ECONOMICS
+My research interests lie in urban economics: how inherited spatial and institutional environments shape opportunities, and how those environments persist and change.
+
+## Research in progress
+
+### The Streetcar Renaissance and the Mixed-Use Downtown
+
+*Atlanta Streetcar · Research design and data development*
+
+Does a place-based transit investment diversify downtown activity or concentrate it around tourism and consumption? This project examines potential changes in commercial composition, spatial uses, and patterns of activity. Candidate designs include difference-in-differences and event studies; comparison corridors, anticipation, and spillovers remain central identification questions.
+
+### Housing Reform and the Opportunity to Build
+
+*Oregon HB2001 · Exploratory analysis and design assessment*
+
+This project considers how middle-housing reform may affect housing markets and available residential choices. Work focuses on policy implementation, exposure, and credible comparisons. Difference-in-differences and potential threshold-based designs remain under assessment.
+
+## Urban Memory
+
+My longer-term conceptual work asks how inherited places, institutions, and practices shape feasible actions and collective outcomes. I distinguish physical traces, historical legibility, and the transmission of practices from the opportunities available to particular people.
+
+[Explore the Urban Memory research agenda →](urban-memory.qmd)
+
+::: {.research-note}
+These projects are ongoing. Candidate mechanisms and identification strategies are not established causal findings.
 :::
-
-My research interests are in **urban economics**.
-
-## Urban memory
-
-*How the places we inherit shape the lives we can build.*
-
-Urban memory is a long-term research motivation: understanding how inherited urban spaces, institutions, and shared practices shape the opportunities available to individuals and communities.
-
-I am interested in the distinction between what a city preserves, how people understand that inheritance, and what they can actually do with it. How do urban change, participation, and exclusion shape which opportunities endure, disappear, or emerge across generations?
-
-This is an evolving research agenda, connecting urban economics with questions about feasible opportunities and collective life.
-
-[Explore the Urban Memory Research Atlas →](urban-memory.qmd)
-
-The interactive atlas documents working concepts, candidate research designs, open questions, and opportunities to participate. It distinguishes hypotheses from established evidence.
-
-## Projects and papers
-
-This page will include abstracts, collaborators, and links to available papers as the research archive develops.

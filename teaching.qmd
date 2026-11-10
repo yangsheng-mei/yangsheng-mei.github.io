@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+pagetitle: "Teaching | Yangsheng Mei"
+lang: en
+---
+
+::: {.teaching-lead}
+Good economics begins with careful observation.
+:::
+
+My goal is to help students notice, question, and translate their intuitions into economic reasoning. I want them to understand how an observation becomes a research question, what assumptions an explanation requires, and what evidence could support or challenge it.
+
+I see mathematics as a language for making ideas precise and economics as a set of tools for understanding human experience. Teaching should help students recognize both what models illuminate and what they leave unexplained. Independent judgment requires curiosity, patience, and a willingness to revise one’s views.
+
+Historical, geographical, and literary materials can provide concrete settings for economic reasoning. Within a conventional course structure, I hope to use such materials to connect mechanisms to lived experience. I also value different forms of participation, including reflection and small-group discussion, so that quieter students have meaningful opportunities to contribute.
+
+Teaching is an intellectual exchange. Students’ experiences and questions can challenge my assumptions and help generate new questions of my own.
+
+## Teaching interests
+
+Urban economics; principles of economics; economic reasoning and causal inference.
+
+## Modules in development
+
+- **Cities and public space:** access, participation, and the uses of shared places.
+- **Transportation and urban form:** how connectivity reshapes activity and opportunity.
+- **Migration, homecoming, and belonging:** mobility, social ties, and place.
+- **Cities in literature and film:** moving from close observation to economic questions.
+
+::: {.research-note}
+These are developing teaching interests and proposed modules, rather than a record of courses already taught.
+:::

@@ -1,39 +1,22 @@
 ---
-title: "Yangsheng Mei · 梅阳生"
-pagetitle: "Yangsheng Mei | Economics, Writing & Photography"
-title-block-banner: false
+title: "Yangsheng Mei"
+pagetitle: "Yangsheng Mei | Yangsheng Mei"
+lang: en
 ---
 
-::: {.eyebrow}
-ECONOMICS · WRITING · PHOTOGRAPHY
+::: {.affiliation}
+梅阳生 · Ph.D. Student in Economics  
+Andrew Young School of Policy Studies · Georgia State University
 :::
 
-::: {.intro}
-A space for research, words, and ways of seeing.
+I study how the places we inherit shape the lives we can build. My interests are in urban economics, particularly how spatial and institutional change reshapes people’s opportunities, relationships, and choices.
+
+My developing research agenda, **Urban Memory**, connects these questions to the persistence and transformation of urban life. Current projects examine the Atlanta Streetcar and Oregon’s middle-housing reform.
+
+## Background & interests
+
+I am from Taiyuan, Shanxi, and grew up in Beijing. My background in economics and creative writing informs how I approach both research and teaching. Beyond economics, I enjoy reading history and poetry, writing, and photography. I am drawn to restrained expression, the passage of time, and the details through which ordinary places acquire meaning.
+
+::: {.home-links}
+[Research](research.qmd) · [Teaching](teaching.qmd) · [Urban Memory](urban-memory.qmd) · [Contact](contact.qmd)
 :::
-
-I am a Ph.D. student in Economics at the Andrew Young School of Policy Studies, Georgia State University. My research interests are in urban economics.
-
-My long-term interest is in **urban memory**: how the places we inherit shape the lives we can build. I am interested in how inherited urban spaces and institutions shape people’s feasible opportunities, and how those opportunities change across generations.
-
-[ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu) · [myangsheng@gmail.com](mailto:myangsheng@gmail.com)
-
-这里存放研究，也存放文字与目光。
-
-::: {.section-links}
-[Research →](research.qmd)
-
-[Urban Memory · Research Atlas →](urban-memory.qmd)
-
-[Curriculum vitae →](cv.qmd)
-
-[Writing archive · 中文写作 →](writing.qmd)
-
-[Photography →](photography.qmd)
-:::
-
----
-
-This website is taking shape. Research details, a CV, essays, and photographs will be added as they become available.
-
-[GitHub](https://github.com/yangsheng-mei){.quiet-link}

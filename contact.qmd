@@ -1,0 +1,18 @@
+---
+title: "Contact"
+pagetitle: "Contact | Yangsheng Mei"
+lang: en
+---
+
+## Academic correspondence
+
+[ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu){.contact-email}
+
+Department of Economics  
+Andrew Young School of Policy Studies  
+Georgia State University  
+Atlanta, Georgia, United States
+
+I welcome correspondence about urban economics, Urban Memory, and related data, historical sources, or opportunities for research collaboration.
+
+[GitHub](https://github.com/yangsheng-mei)

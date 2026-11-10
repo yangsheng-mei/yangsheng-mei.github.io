@@ -1,0 +1,14 @@
+---
+title: "城市记忆"
+pagetitle: "城市记忆 | Yangsheng Mei"
+lang: zh-CN
+---
+
+**继承的空间，如何塑造可建构的人生？**
+
+这是一份持续发展的研究议程。概念定义、候选机制和识别设计仍然开放。
+
+```{=html}
+<div id="um-atlas" data-language="zh"></div>
+<script src="atlas.js"></script>
+```

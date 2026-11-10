@@ -1,0 +1,17 @@
+---
+title: "联系"
+pagetitle: "联系 | Yangsheng Mei"
+lang: zh-CN
+---
+
+## 学术联系
+
+[ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu){.contact-email}
+
+佐治亚州立大学 · 安德鲁·杨政策研究学院  
+经济系  
+美国佐治亚州亚特兰大
+
+欢迎就城市经济学、Urban Memory，以及相关数据、历史资料或研究合作与我联系。
+
+[GitHub](https://github.com/yangsheng-mei)

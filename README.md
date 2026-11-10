@@ -1,33 +1,16 @@
-# Yangsheng Mei — personal website
+# Yangsheng Mei — academic website
 
-Quarto source for https://yangshengmei.com.
+Quarto source for https://yangshengmei.com. GitHub Actions renders and publishes pushes to main.
 
-## 在 RStudio 编辑
+## Structure
+English is the default. Every main page has a Chinese counterpart named `*-zh.qmd`. The language control preserves the current section. English navigation: Home, Research, Teaching, Urban Memory, CV, Beyond Economics, Contact. Writing and Photography are grouped under Beyond Economics; the old URLs remain as short forwarding pages.
 
-打开 `yangshengmei.Rproj`，编辑 `.qmd` 文件，然后点击 Render，或在 Terminal 运行 `quarto render`。
+## Updating content
+Edit the corresponding English and Chinese `.qmd` pages together. `navigation.html` localizes navigation and maps language pairs. `styles.css` controls the shared layout.
 
-- `index.qmd`：首页
-- `research.qmd`：论文与研究
-- `cv.qmd`：履历；有真实 PDF 后放入 `files/cv.pdf` 并添加链接
-- `writing.qmd`：中文文章目录；新文章使用根目录的 `.qmd` 文件，并在目录添加链接
-- `photography.qmd`：摄影；图片放入 `images/`，补充替代文字
-- `styles.css`：字体、颜色、间距
+`atlas.js` contains selected public research records in English and Chinese and the interactive rendering code. Source dates, evidence status, working hypotheses and next steps should be updated together. Never put private notes into this public file, even if they would be hidden in the interface. Survey URLs must be HTTPS; embedded questionnaires may require provider permission. The offline management workspace does not automatically publish changes.
 
-本地预览输出到 `docs/`。提交源文件到 main 后，GitHub Actions 自动渲染和发布，无需上传生成的网页。GitHub Settings → Pages 的 Source 应为 GitHub Actions。
+Teaching is summarized from the author's Teaching.md as a developing philosophy. Proposed modules are explicitly not presented as courses already taught. The CV page is a concise academic profile; the older local PDF contains out-of-date and private contact information and is not published.
 
-不要把密码、私密材料、未授权的照片或私人 CV 信息放入公开仓库。
-
-## 自定义域名
-
-GitHub Pages Custom domain: yangshengmei.com。Cloudflare 使用 DNS only：根域名 A 记录指向 GitHub Pages 的四个地址，www CNAME 指向 yangsheng-mei.github.io。确认无冲突记录后再添加。证书签发完成后开启 Enforce HTTPS。
-
-官方说明：https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
-
-
-## Urban Memory atlas
-
-- `urban-memory.qmd`: integrated page with the normal website navigation.
-- `urban-memory-atlas.html`: public interactive atlas, self-contained; updates are published with the source through GitHub Actions.
-- Only public research records are included. Private meeting notes and cloud write endpoints are excluded from the public artifact.
-- GitHub Pages is static hosting. Editing the offline management copy does NOT update this public atlas automatically. Review and publish source changes to update the public website.
-- External survey settings remain empty until an actual questionnaire is ready.
+## Publication
+Commit source changes to https://github.com/yangsheng-mei/yangsheng-mei.github.io. The existing Publish Quarto website workflow builds and deploys the website. Keep CNAME as yangshengmei.com. Do not upload the private Urban-Memory-Workspace directory.

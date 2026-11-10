@@ -1,13 +1,7 @@
 ---
-title: Photography
+title: "Photography"
+pagetitle: "Photography | Yangsheng Mei"
+lang: en
 ---
 
-::: {.eyebrow}
-WAYS OF SEEING
-:::
-
-A space for photographs and the stories around them.
-
-::: {.empty-note}
-Selected photographs will be added here.
-:::
+My photography interests are now part of [Beyond Economics](personal.qmd#photography).

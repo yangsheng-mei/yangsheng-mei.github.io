@@ -1,14 +1,25 @@
 ---
-title: Curriculum vitae
+title: "Curriculum Vitae"
+pagetitle: "Curriculum Vitae | Yangsheng Mei"
+lang: en
 ---
 
-**Ph.D. student**  
+## Current affiliation
+
+**Ph.D. student in Economics**  
 Andrew Young School of Policy Studies, Georgia State University
 
-**Research interests:** Urban economics; urban memory.
+## Education
 
-**Contact:** [ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu) · [myangsheng@gmail.com](mailto:myangsheng@gmail.com)
+**M.A. in Economics** · Pennsylvania State University
 
-A full curriculum vitae will be available here.
+**B.A. in Economics; B.A. in English, Creative Writing** · University of Colorado Denver  
+Minor in Geography
 
-Education, research experience, and other academic activities will be added with the CV.
+## Research interests
+
+Urban economics; spatial and institutional change; opportunities and urban memory.
+
+## Contact
+
+[ymei3@student.gsu.edu](mailto:ymei3@student.gsu.edu)
