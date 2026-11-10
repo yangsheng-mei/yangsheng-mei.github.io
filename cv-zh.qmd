@@ -1,6 +1,6 @@
 ---
 title: "学术简历"
-pagetitle: "学术简历 | Yangsheng Mei"
+pagetitle: "学术简历"
 lang: zh-CN
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "联系"
-pagetitle: "联系 | Yangsheng Mei"
+pagetitle: "联系"
 lang: zh-CN
 ---
 

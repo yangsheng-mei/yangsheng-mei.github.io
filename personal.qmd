@@ -1,6 +1,6 @@
 ---
 title: "Beyond Economics"
-pagetitle: "Beyond Economics | Yangsheng Mei"
+pagetitle: "Beyond Economics"
 lang: en
 ---
 

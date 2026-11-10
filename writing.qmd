@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-pagetitle: "Writing | Yangsheng Mei"
+pagetitle: "Writing"
 lang: en
 ---
 

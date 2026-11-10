@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-pagetitle: "Curriculum Vitae | Yangsheng Mei"
+pagetitle: "Curriculum Vitae"
 lang: en
 ---
 

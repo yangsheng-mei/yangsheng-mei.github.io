@@ -1,6 +1,6 @@
 ---
 title: "研究"
-pagetitle: "研究 | Yangsheng Mei"
+pagetitle: "研究"
 lang: zh-CN
 ---
 

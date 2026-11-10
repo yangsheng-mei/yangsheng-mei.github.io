@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-pagetitle: "Photography | Yangsheng Mei"
+pagetitle: "Photography"
 lang: en
 ---
 

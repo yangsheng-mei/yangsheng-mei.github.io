@@ -1,6 +1,6 @@
 ---
 title: "教学"
-pagetitle: "教学 | Yangsheng Mei"
+pagetitle: "教学"
 lang: zh-CN
 ---
 

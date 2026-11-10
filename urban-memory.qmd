@@ -1,6 +1,6 @@
 ---
 title: "Urban Memory"
-pagetitle: "Urban Memory | Yangsheng Mei"
+pagetitle: "Urban Memory"
 lang: en
 ---
 

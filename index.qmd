@@ -1,6 +1,6 @@
 ---
 title: "Yangsheng Mei"
-pagetitle: "Yangsheng Mei | Yangsheng Mei"
+pagetitle: "Economics"
 lang: en
 ---
 

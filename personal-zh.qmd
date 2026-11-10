@@ -1,6 +1,6 @@
 ---
 title: "学术之外"
-pagetitle: "学术之外 | Yangsheng Mei"
+pagetitle: "学术之外"
 lang: zh-CN
 ---
 

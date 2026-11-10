@@ -1,6 +1,6 @@
 ---
 title: "Research"
-pagetitle: "Research | Yangsheng Mei"
+pagetitle: "Research"
 lang: en
 ---
 

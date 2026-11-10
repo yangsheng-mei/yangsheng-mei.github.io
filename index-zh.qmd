@@ -1,6 +1,6 @@
 ---
 title: "梅阳生"
-pagetitle: "梅阳生 | Yangsheng Mei"
+pagetitle: "首页"
 lang: zh-CN
 ---
 

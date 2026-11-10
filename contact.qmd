@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-pagetitle: "Contact | Yangsheng Mei"
+pagetitle: "Contact"
 lang: en
 ---
 

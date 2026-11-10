@@ -1,6 +1,6 @@
 ---
 title: "城市记忆"
-pagetitle: "城市记忆 | Yangsheng Mei"
+pagetitle: "城市记忆"
 lang: zh-CN
 ---
 
