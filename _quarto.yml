@@ -7,6 +7,7 @@ project:
     - CNAME
     - atlas.js
     - urban-memory-atlas.html
+    - family-history-assets/**
 website:
   title: "Yangsheng Mei"
   site-url: https://yangshengmei.com

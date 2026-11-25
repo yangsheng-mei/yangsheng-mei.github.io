@@ -10,6 +10,12 @@ lang: zh-CN
 
 我用中文写作，关注诗歌、历史与地方经验。我偏爱精确与克制的表达：一个细小的意象，也可以承载时间和失去的感受。
 
+### [空对西风数去鸦](family-history-zh.qmd)
+
+一部从雁门关写起的家族记忆，从山阴元营的旧宅、明代的选簿，写到在太原长大的那些年。
+
+[阅读中文原文](family-history-zh.qmd) · [Read in English](family-history.qmd){lang=en hreflang=en}
+
 ## 摄影
 
 摄影是另一种留意日常环境的方式：街道、光线、建筑，以及人与地方的关系。
