@@ -1,0 +1,92 @@
+.family-history {
+  color: var(--ink, #28372f);
+  overflow-wrap: anywhere;
+}
+
+.family-history .article-links {
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  margin-bottom: 2rem;
+}
+
+.family-history blockquote {
+  border-inline-start: 2px solid var(--rule, #d6dcd4);
+  color: var(--ink, #28372f);
+  margin: 1.75rem 0 2.75rem;
+  padding: 0.3rem 0 0.3rem 1rem;
+}
+
+.family-history blockquote p {
+  margin: 0 0 0.6rem;
+}
+
+.family-history h2 {
+  margin-top: 2.7rem;
+}
+
+.family-history figure {
+  margin: 1.6rem auto 1.9rem;
+  text-align: center;
+}
+
+.family-history figure img {
+  display: block;
+  height: auto;
+  margin-inline: auto;
+  max-width: 100%;
+}
+
+.family-history figcaption,
+.family-history .source-notes {
+  color: var(--muted, #677069);
+  font-size: 0.86rem;
+}
+
+.family-history figcaption {
+  margin-top: 0.45rem;
+}
+
+.family-history table {
+  border-collapse: collapse;
+  font-size: 0.88em;
+  line-height: 1.6;
+  margin: 1.25rem 0 1.8rem;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.family-history th:first-child {
+  width: 28%;
+}
+
+.family-history th,
+.family-history td {
+  border-bottom: 1px solid var(--rule, #d6dcd4);
+  padding: 0.55rem;
+  text-align: start;
+  vertical-align: top;
+}
+
+.family-history th {
+  background: color-mix(in srgb, var(--rule, #d6dcd4) 40%, transparent);
+}
+
+.family-history .reference {
+  font-size: 0.78em;
+  white-space: nowrap;
+}
+
+
+.family-history .article-contents {
+  font-size: 0.92rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.family-history .article-contents summary {
+  color: var(--green, #315b48);
+  cursor: pointer;
+}
+
+.family-history .article-contents ul {
+  margin: 0.45rem 0 0;
+}

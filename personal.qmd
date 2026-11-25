@@ -10,6 +10,12 @@ History, poetry, and photography inform the way I observe places and people. I a
 
 I write in Chinese, with interests in poetry, history, and the experience of place. I value precision and restraint: the possibility that a small detail can carry a larger sense of time or loss.
 
+### [Alone in the West Wind, Counting the Departing Crows](family-history.qmd)
+
+A family history from Yanmen Pass to Taiyuan, pieced together from household stories, local gazetteers, and a Ming military appointment register.
+
+[Read in English](family-history.qmd) · [中文原文](family-history-zh.qmd){lang=zh-CN hreflang=zh-CN}
+
 ## Photography
 
 Photography offers another way to attend to everyday surroundings: streets, light, buildings, and the relationships between people and places.
